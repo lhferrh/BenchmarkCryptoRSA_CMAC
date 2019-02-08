@@ -2,6 +2,7 @@
 A Benchmark to test signing and verification time taken by CMAC with AES and RSA with the cyphers SHA1, SHA256, Whirlpool, SHA384.
 
 Intructions to run the benchmark:
+
 1- Install crypto++:  sudo apt-get install libcrypto++-dev libcrypto++-doc libcrypto++-utils
 
 2- Create a file book.txt with many lines of text. The program is going to input message from this file.
